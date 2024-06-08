@@ -1,0 +1,11 @@
+{
+	"name": "slidev",
+	"scripts": {
+		"build": "turbo slidev build",
+		"dev": "turbo slidev --open",
+		"export": " turbo slidev export"
+	},
+	"devDependencies": {
+		"turbo": "latest"
+	}
+}
